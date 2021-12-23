@@ -9,3 +9,7 @@
 
 Example:<br>
 **[ARTICLE by Chinedu Francis Nwafili]** [WebGL + Rust: Basic Water Tutorial](https://www.chinedufn.com/3d-webgl-basic-water-tutorial/)
+
+Contributions can be of a number of types **ARTICLE**, **VIDEO**, **CRATE** etc. Be sure to specify the **CONTENT-TYPE** in your contribution
+
+All Contributions should follow the [Rust Community Code of Conduct](https://www.rust-lang.org/policies/code-of-conduct)
