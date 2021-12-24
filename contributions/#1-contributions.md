@@ -6,8 +6,6 @@ A tutorial that explores how to create a CLI with Clap in Rust
 
 ##
 
-### Open Source Project: [Gigamono](https://github.com/gigamono) 
-
-<sub>by Stephen Akinyemi</sub>
+[OSS by Stephen Akinyemi] Rust + Svelte: [Gigamono](https://github.com/gigamono)
 
 A Secure Multi-Tenant Serverless Framework for Building Productivity Workspaces
