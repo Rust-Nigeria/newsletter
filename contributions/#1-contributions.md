@@ -9,3 +9,10 @@ A tutorial that explores how to create a CLI with Clap in Rust
 [OSS by Stephen Akinyemi] Rust + Svelte: [Gigamono](https://github.com/gigamono)
 
 A Secure Multi-Tenant Serverless Framework for Building Productivity Workspaces
+
+
+## 
+
+[ARTICLE by Boluwatife Ayodele Gbeminiyi] Rust in Blockchain: [Generate a Blockchain Key Pair Address in Rust](https://dev.to/yceethetechie/generate-a-blockchain-key-pair-address-in-rust-4871)
+
+Walking through how to generate a blockchain key pair addresses with the rust programming language.
