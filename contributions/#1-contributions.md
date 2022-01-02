@@ -32,4 +32,5 @@ API Client Library for interfacing with the NEAR Protocol, via JSONRPC.
 
 [OSS by Miraculous Owonubi] [themis](https://github.com/near/nearcore/blob/960c4112111bc4a2f214af65c37bfa55a1552062/tools/themis/src/main.rs)
 
-Utility for linting cargo workspaces with custom defined rules. Helps to ensure every crate in a workspace are compliant to the predefined rules, especially useful in large workspaces.
+Utility for linting cargo workspaces with custom defined rules. Named after [Themis](https://en.wikipedia.org/wiki/Themis), the Greek god of justice, and divine order.
+Helps ensure every crate in a workspace remain compliant to a series of predefined rules, especially useful in large workspaces.
