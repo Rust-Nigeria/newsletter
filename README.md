@@ -1,5 +1,3 @@
-## We are now accepting contributions for issue #2 of our newsletter!!!
-
 ## Contribution Guideline
 
 - Fork this repository
