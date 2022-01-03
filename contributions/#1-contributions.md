@@ -21,3 +21,9 @@ Walking through how to generate a blockchain key pair addresses with the rust pr
 [OSS by Ayodeji Adeoti] [Thanos.rs](https://github.com/Lord-sarcastic/Thanos.rs)
 
 Thanos.rs is a Rust implementation of the infinity stones and [Thanos' snap](https://marvelcinematicuniverse.fandom.com/wiki/Snap) with relation to files and folders on your beloved PC.
+
+##
+
+[OSS by Miraculous Owonubi] [near-jsonrpc-client-rs](https://github.com/near/near-jsonrpc-client-rs)
+
+API Client Library for interfacing with the NEAR Protocol, via JSONRPC.
