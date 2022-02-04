@@ -4,12 +4,12 @@
 
 ##
 
-[ARTICLE by David Ekete] [A Begineer's Guide to Setting up rust on windows](https://medium.com/@davidekete/a-beginners-guide-to-setting-up-rust-on-windows-995a9926267f)
+[ARTICLE by David Ekete] [A Beginner's Guide to Setting up rust on windows](https://medium.com/@davidekete/a-beginners-guide-to-setting-up-rust-on-windows-995a9926267f)
 
-This is a tutorial that walks begineers through the process of setting up rust on windows.
+This is a tutorial that walks beginners through the process of setting up Rust on Windows.
 
 ##
 
 [OSS by Akin Aguda] [Fluid Simulation](https://akin-fluid-simulation-rust.netlify.app/)
 
-A fluid simulation with the [Navier Stokes equations](https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations), with its core algorithm written in rust and rendered in typescript + webgl
+A fluid simulation with the [Navier Stokes equations](https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations), with its core algorithm written in Rust and rendered in Typescript + WebGL
