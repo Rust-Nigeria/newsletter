@@ -16,5 +16,6 @@ A fluid simulation with the [Navier Stokes equations](https://en.wikipedia.org/w
 
 ##
 
-[Article by Austin Aigbe] [Rust-y Memory. How Safe?](https://dev.to/rustnigeria/rust-y-memory-how-safe-p6g)
+[ARTICLE by Austin Aigbe] [Rust-y Memory. How Safe?](https://dev.to/rustnigeria/rust-y-memory-how-safe-p6g)
+
 Let's examine how Rust guarantees memory safety during compile time.
