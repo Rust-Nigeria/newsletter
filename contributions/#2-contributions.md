@@ -13,3 +13,8 @@ This is a tutorial that walks beginners through the process of setting up Rust o
 [OSS by Akin Aguda] [Fluid Simulation](https://akin-fluid-simulation-rust.netlify.app/)
 
 A fluid simulation with the [Navier Stokes equations](https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations), with its core algorithm written in Rust and rendered in Typescript + WebGL
+
+##
+
+[Article by Austin Aigbe] [Rust-y Memory. How Safe?](https://dev.to/rustnigeria/rust-y-memory-how-safe-p6g)
+Let's examine how Rust guarantees memory safety during compile time.
