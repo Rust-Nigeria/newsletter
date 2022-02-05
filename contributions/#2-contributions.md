@@ -19,3 +19,9 @@ A fluid simulation with the [Navier Stokes equations](https://en.wikipedia.org/w
 [ARTICLE by Austin Aigbe] [Rust-y Memory. How Safe?](https://dev.to/rustnigeria/rust-y-memory-how-safe-p6g)
 
 Let's examine how Rust guarantees memory safety during compile time.
+
+##
+
+[OSS by Chinedu Francis Nwafili] [swift-bridge](https://github.com/chinedufn/swift-bridge)
+
+swift-bridge is a library that lets you pass and share high-level types such as `Option<T>`, `String`, `Struct` and `Class` between Rust and Swift.
