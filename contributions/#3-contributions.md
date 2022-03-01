@@ -9,5 +9,5 @@ An introduction to some basic concepts in Rust programming that is needed to suc
 [OSS by Ayodeji Adeoti & Enoch Chejieh] [Lazerpay Rust SDK](https://crates.io/crates/lazerpay-rust-sdk)
 A library that integrates the Lazerpay payment gateway for accepting cryptocurrency payments.
 
-[VIDEO by Nathaniel Bajo](https://www.youtube.com/watch?v=PjZh19o5sdM) 
+[VIDEO by Nathaniel Bajo] [Automated Doorlock] (https://www.youtube.com/watch?v=PjZh19o5sdM) 
 Automation of a doorlock using rust and Raspberry Pi.
