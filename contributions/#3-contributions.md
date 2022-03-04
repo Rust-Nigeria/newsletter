@@ -5,7 +5,7 @@
 [ARTICLE by Akinola Ayomide] [Introduction to Rust Programming for solana](https://drayfocus.hashnode.dev/introduction-to-rust-programming-for-solana)<br>
 An introduction to some basic concepts in Rust programming that is needed to successfully write a program on the solana blockchain.
 ##
-[ARTICLE by Austin Aigbe] [Deploying Your Rust Apps in the Clouda](https://dev.to/eshikafe/deploying-your-rust-apps-in-the-cloud-7cg)<br>
+[ARTICLE by Austin Aigbe] [Deploying Your Rust Apps in the Cloud](https://dev.to/eshikafe/deploying-your-rust-apps-in-the-cloud-7cg)<br>
 A step-by-step guide on how to deploy any Rust application in the cloud on AWS EC2.
 ##
 [OSS by Ayodeji Adeoti & Enoch Chejieh] [Lazerpay Rust SDK](https://crates.io/crates/lazerpay-rust-sdk)<br>
