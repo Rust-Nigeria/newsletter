@@ -16,3 +16,6 @@ A tutorial that teaches how to build a simple todolist rest api with Rust, actix
 
 In the last post I mentioned the borrow checker briefly. In this post, I'm going to share what I've learned so far about the borrow checker. Now before we go into that, we need to go back to the foundational knowledge we had the last time.
 
+[CRATE by Diretnan Domnan and Wisdom Praise] [Waihona](https://github.com/bisohns/waihona)
+
+Waihona means storage in Hawaiin and is a rust library for providing basic cloud storage functions across major cloud providers like aws, gcp, azure.
