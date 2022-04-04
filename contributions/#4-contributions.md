@@ -7,7 +7,7 @@ A tutorial that teaches some key concepts specific to Rust that are needed to bu
 
 
 
-[ARTICLE by AbdulHafeez AbdulRaheem] Building REST API's with Rust, Actix Web and MongoDB
+[ARTICLE by AbdulHafeez AbdulRaheem] [Building REST API's with Rust, Actix Web and MongoDB](https://dev.to/feezyhendrix/building-rest-apis-with-rust-actix-web-and-mongodb-4lbf)
 
 A tutorial that teaches how to build a simple todolist rest api with Rust, actix web and mongodb
 
