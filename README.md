@@ -1,7 +1,7 @@
 ## Contribution Guideline
 
 - Fork this repository
-- Make your contribution to the latest issue of the newsletter by appending your contribution to the [**#10-contributions.md**](https://github.com/Rust-Nigeria/newsletter/blob/main/contributions/%2310-contributions.md) file
+- Make your contribution to the latest issue of the newsletter by appending your contribution to the [**#12-contributions.md**](https://github.com/Rust-Nigeria/newsletter/blob/main/contributions/%2312-contributions.md) file
 - Your contribution should be in this format:<br>
   **[CONTENT-TYPE by creator-name]** [content title](https://github.com/Rust-Nigeria/newsletter)<br>
   _A Short description of the content_
