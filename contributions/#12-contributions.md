@@ -7,3 +7,7 @@ A simple demonstration of using the Bevy game engine and the Rust programming la
 [ARTICLE by Abdulqudduus Babalola] [The Rust programming language](https://blog.babalolajnr.dev/the-rust-programming-language)
 
 A beginner's guide to the Rust programming language
+
+[ARTICLE by Adeoye Adefemi] [Is the Rust programming language worth Learning?](https://opeolluwa.hashnode.dev/is-rust-worth-learning) 
+
+An attempt to answer if The Rust programming language is worth learning. 
